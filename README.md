@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @debadutta panda
+- work as SDE at kore.ai
